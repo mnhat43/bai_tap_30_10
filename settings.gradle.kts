@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "bai1_30_10"
+rootProject.name = "Mobile Android"
 include(":app")
  

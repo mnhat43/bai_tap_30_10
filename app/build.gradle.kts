@@ -1,14 +1,14 @@
 plugins {
     alias(libs.plugins.android.application)
-    alias(libs.plugins.jetbrains.kotlin.android)
+    alias(libs.plugins.kotlin.android)
 }
 
 android {
-    namespace = "com.example.bai1_30_10"
+    namespace = "com.ferus.mobileandroid"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.bai1_30_10"
+        applicationId = "com.ferus.mobileandroid"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
